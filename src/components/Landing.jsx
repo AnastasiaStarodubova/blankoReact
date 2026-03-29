@@ -17,6 +17,9 @@ const StyledSection = styled.section`
     line-height: 48px;
     white-space: nowrap;
     color: #000000;
+    @media screen and (min-width: 1024px) {
+      font-size: 20px;
+    }
   }
 `;
 
