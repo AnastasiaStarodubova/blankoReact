@@ -1,6 +1,4 @@
 import "./App.css";
-import styled from "@emotion/styled";
-import { useEffect, useState } from "react";
 import { Header } from "./components/Header";
 import { Landing } from "./components/Landing";
 import { Herro } from "./components/Herro";
